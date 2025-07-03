@@ -1,5 +1,7 @@
 API для классификации растений с использованием TensorFlow и FastAPI. Модель автоматически загружается с Google Drive при первом запуске.
 
+Модель: https://drive.google.com/file/d/1CJPORxXj-9nELB6M7aKLHQNEehk9mk4B/view?usp=sharing
+
 
 ### Установка зависимостей
 pip install -r requirements.txt
