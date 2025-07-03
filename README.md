@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ### Запуск сервера 
 uvicorn main:app --reload
 
-###API Endpoints
+### API Endpoints
 GET / - Информация о API
 
 GET /health - Проверка статуса сервиса
